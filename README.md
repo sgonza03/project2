@@ -11,7 +11,18 @@ before the merge, so i could practice loading data onto java in series\parallel.
 would be able to give us a visual insight to trends.
 
 After loading in the data I first tried to graph the data using D3, however since I didnt properly transform the date data columns i was having many issues.
-Therfore, i decided to use plotly. 
+Therfore, i decided to use plotly to graph.
+
+To help visualize the data sets i visually graphed the following data sets and columns:
+
+
+
+
+
+To further help out with 
+
+
+
 
 
 
